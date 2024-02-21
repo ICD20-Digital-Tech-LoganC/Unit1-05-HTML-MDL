@@ -1,4 +1,4 @@
-[![GitHub's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![GitHub's Super Linter](https://github.com/ICD20-Digital-Tech-LoganC/Unit1-05-HTML-MDL/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICD20-Digital-Tech-LoganC/Unit1-05-HTML-MDL/actions)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/<OWNER>/<REPOSITORY>)](https://repl.it/github/<OWNER>/<REPOSITORY>)
+[![Run on Repl.it](https://repl.it/badge/github/ICD20-Digital-Tech-LoganC/Unit1-05-HTML-MDL)](https://repl.it/github/ICD20-Digital-Tech-LoganC/Unit1-05-HTML-MDL)
